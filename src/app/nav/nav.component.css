@@ -1,0 +1,28 @@
+
+nav{
+margin-top: 5px;
+display: inline-block;
+}
+
+
+a
+{
+    padding: 20px;
+    font-size: 30px;
+    text-decoration:none;
+}
+a:active
+{
+    color:rgb(49,35,248);
+}
+
+.active
+{
+    color: rgba(200, 6, 113, 0.968);
+    text-decoration: underline;
+    background-color: aqua;
+}
+.br
+{
+    border:1px solid black;
+}
